@@ -30,9 +30,11 @@ pip install shapely
 -> input.json -> factorymaker.py -> output.json -> plot.py
 1. Store all the files in one directory.
 2. Open factorymaker.py, generate permutations and best fits for them, export them to output.json.
+3. Open plot.py, by importing arrangements as output.json you can generate plots.
 
 
-##Selected solutions
+
+## Selected solutions
 
 
 ![](figures/id1.png)
@@ -50,7 +52,7 @@ Arrangament 1-> figures/id1.png
   },
 ```
 ![](figures/id23.png)
-Arrangament 23> figures/id23.png
+Arrangament 23 -> figures/id23.png
 
 ```
 {'arrangement_id': 23,
