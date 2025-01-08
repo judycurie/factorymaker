@@ -10,7 +10,7 @@
 
 4. While the problem when the rotation of the buildings is fair simple and all permuations as a graph structure can be drawn by hand (please check files/graph.jpg), when adding possible rotations the problem gets trickier.
 
-![](../files/graph.jpg)
+![](files/graph.jpg)
 
 5. The program should be scalable by adding additional buildings to input.json, however adding additional paths would require adjustements to make it work.
 
@@ -35,7 +35,7 @@ pip install shapely
 ##Selected solutions
 
 
-![](../figures/id1.png)
+![](figures/id1.png)
 Arrangament 1-> figures/id1.png
 ```
 {'arrangement_id': 1,
@@ -49,7 +49,7 @@ Arrangament 1-> figures/id1.png
   'objectives': {'objective_1': 110, 'objective_2': 14190000}
   },
 ```
-![](../figures/id23.png)
+![](figures/id23.png)
 Arrangament 23> figures/id23.png
 
 ```
